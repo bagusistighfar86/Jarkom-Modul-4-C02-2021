@@ -33,3 +33,7 @@ Dari pohon dari pohon tersebut akan mendapat pembagian IP sebagai berikut :
 
 
 ## CIDR (GNS3)
+
+## Kendala
+1. Bingung dibagian server apakah dibagi IP atau tidak
+2. 
