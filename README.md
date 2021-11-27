@@ -317,22 +317,22 @@ echo nameserver 192.168.122.1 > /etc/resolv.conf
 
 Setup pun selesai dan kita bisa melakukan testing ping antar node, berikut merupakan beberapa contoh ping:
 
-1. Cipher ke Doriki
+1. Cipher ke Doriki  
 ![image](https://user-images.githubusercontent.com/31591861/143677237-808c908b-3622-458f-8f04-0887359b333f.png)
 
-2. Cipher ke Google.com
+2. Cipher ke Google.com  
 ![image](https://user-images.githubusercontent.com/31591861/143677257-2205341f-2dc1-44ff-b02d-e8677bb3cf5f.png)
 
-3. Jipangu ke Elena
+3. Jipangu ke Elena  
 ![image](https://user-images.githubusercontent.com/31591861/143677274-10e15db7-3635-41d4-bbf1-7bb3617c5bab.png)
 
-4. Elena ke Fukurou
+4. Elena ke Fukurou  
 ![image](https://user-images.githubusercontent.com/31591861/143677291-de4b9bf7-eafd-4fd4-8902-c8377211e194.png)
 
-5. Elena ke google.com
+5. Elena ke google.com  
 ![image](https://user-images.githubusercontent.com/31591861/143677303-32af437f-1a6f-4473-812a-06bf268484d0.png)
 
-6. Elena ke Jipangu
+6. Elena ke Jipangu  
 ![image](https://user-images.githubusercontent.com/31591861/143677315-412d9b9d-1c1c-4899-b298-1dedb929a386.png)
 
 
