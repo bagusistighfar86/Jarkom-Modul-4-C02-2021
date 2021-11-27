@@ -24,8 +24,20 @@ Dari pohon dari pohon tersebut akan mendapat pembagian IP sebagai berikut :
 
 [![1638005802304.jpg](https://i.postimg.cc/W3Kbs5TZ/1638005802304.jpg)](https://postimg.cc/Q9QrbkBN)
 
+Berikut adalah contoh konfigurasi IP pada Router(Foosha eth1/1 yang mengarah ke Water7) :
+![image](https://user-images.githubusercontent.com/73484021/143677606-a6e42e4f-a4b2-417d-97b4-dcb68bdda42a.png)
 
+Berikut adalah contoh konfigurasi IP pada PC (Elena) :
+![image](https://user-images.githubusercontent.com/73484021/143677646-55832ff7-a8a4-4a96-a1eb-e7af3f0f7e07.png)
 
+Berikut adalah contoh konfigurasi IP pada Server (Doriki fa0 yang mengarah ke Foosha) :
+![image](https://user-images.githubusercontent.com/73484021/143677680-54b56466-44fd-431c-a5bb-5b0059f35b9b.png)
+
+### Routing
+![image](https://user-images.githubusercontent.com/73484021/143678456-36fc6ddd-ccb2-4785-95ee-f30a6ca5c476.png)
+
+Contoh ping Doriki - Fukurou dan Oimo - Courtyard :
+![image](https://user-images.githubusercontent.com/73484021/143678525-e42a86b0-351b-4a54-aba4-cbf2ac669b52.png)
 
 
 
